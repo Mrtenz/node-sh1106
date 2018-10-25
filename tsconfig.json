@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "outDir": "./lib/",
+    "declarationDir": "./typings/",
+    "declaration": true,
+    "baseUrl": "./src/",
+    "sourceMap": true,
+    "strictNullChecks": true,
+    "allowSyntheticDefaultImports": true,
+    "noImplicitAny": true,
+    "module": "commonjs",
+    "target": "es2017",
+    "noEmitOnError": true,
+    "strict": true
+  },
+  "include": [
+    "./src/**/*"
+  ]
+}
