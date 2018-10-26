@@ -107,9 +107,9 @@ base@^0.11.1:
     mixin-deep "^1.2.0"
     pascalcase "^0.1.1"
 
-binary-pixel-map@^1.2.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/binary-pixel-map/-/binary-pixel-map-1.2.0.tgz#b0ae99c3142fb5962db56f713576d090d2cdcfe7"
+binary-pixel-map@^1.2.1:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/binary-pixel-map/-/binary-pixel-map-1.2.1.tgz#f0a9413525c95edfc27b094a74f4ba426079b9a4"
   dependencies:
     sharp "^0.21.0"
 
